@@ -35,11 +35,11 @@ The `analyse_plant_data()` method:
 
 The `load_new_data_from_file()` method:
 
-- converts country codes into full country names
-- adds an `updatedby` column
-- adds an `updatetime` column
-- standardises the final database column order
-- prepares the cleaned data for saving
+1. converts country codes into full country names
+2. adds an `updatedby` column
+3. adds an `updatetime` column
+4. standardises the final database column order
+5. prepares the cleaned data for saving
 
 ### Database Creation
 
