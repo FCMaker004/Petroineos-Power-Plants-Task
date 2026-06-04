@@ -68,5 +68,36 @@ The quarters are defined as:
 
 The `aggregate_data_to_country()` method aggregates total production volume by country and technology type
 
+## How to run
+
+1. Clone the repository and open cloned repository in VS Code.
+
+```cmd
+git clone https://github.com/FCMaker004/Petroineos-Power-Plants-Task.git
+cd Petroineos-Power-Plants-Task
+```
+
+2. Create and activate virtual environment
+
+```cmd
+python -m venv .venv
+.venv\Scripts\activate
+```
+
+3. Install required dependency
+```cmd
+pip install -r requirements.txt
+```
+
+## Author
+Farhan Chowdhury
+
+
+
+
+
+
+
+
 
 
