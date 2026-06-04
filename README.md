@@ -89,8 +89,16 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
+## Acknowledgements
+
+I used the free version of Claude AI as a support tool during this task, mainly for guidance on file handling and structuring parts of the workflow. I also referred to the official pandas documentation to check syntax and confirm the correct usage of pandas functions such as `pivot_table()`, `groupby()`, `concat()`, and some datetime operations.
+
+All final code was reviewed, adapted, and implemented by me.
+
 ## Author
 Farhan Chowdhury
+
+
 
 
 
